@@ -6,6 +6,9 @@ from ollama_client import generate
 DEFAULT_MODEL = "mistral-openorca:latest"
 
 
+# many prompts pulled from https://github.com/rahulnyk/research_agent
+
+
 def create_hypothesis(
     question: str,
     model: str = DEFAULT_MODEL,
