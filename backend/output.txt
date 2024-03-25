@@ -1,0 +1,1007 @@
+Initial question:  what is AL?
+Adding question:  what is AL?
+Hypothesis:  what is AL?
+ Concepts: AL, Definition of AL
+Context: Information about AL's purpose or field it is associated with
+
+
+
+
+Retrieved docs:  [Document(page_content='●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor \n ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend \n Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 \n ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software \n ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python \n ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 \n PROJECT HIGHLIGHTS \n ARPaint: Augmented Reality iOS App \n ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment \n by tracing their fingers midair using Apple’s ARKit and SceneKit \n ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection \n Muxi: Spotify-Integrated Social Media App with Recommendation Engine', metadata={'source': './data/resume.pdf', 'page': 0}), Document(page_content='●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor \n ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend \n Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 \n ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software \n ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python \n ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 \n PROJECT HIGHLIGHTS \n ARPaint: Augmented Reality iOS App \n ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment \n by tracing their fingers midair using Apple’s ARKit and SceneKit \n ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection \n Muxi: Spotify-Integrated Social Media App with Recommendation Engine', metadata={'source': './data/resume.pdf', 'page': 0}), Document(page_content='●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility \n Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 \n ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service \n ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React \n CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 \n ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code \n ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java', metadata={'source': './data/resume.pdf', 'page': 0}), Document(page_content='Muxi: Spotify-Integrated Social Media App with Recommendation Engine \n ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables \n users to follow other Spotify users, message them, and rate their favorite songs \n ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering \n MapleJuice: MapReduce on a Distributed File System \n ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles \n replication and simultaneous reads and writes. \n ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. \n EXTRACURRICULAR ACTIVITIES \n CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 \n ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS \n ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility', metadata={'source': './data/resume.pdf', 'page': 0}), Document(page_content='Rachael W ei \n 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ \n EDUCATION \n University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 \n Bachelor of Science in Computer Science  GPA: 3.91/4.0 \n Relevant Coursework: \n Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming \n Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography \n TECHNICAL STRENGTHS \n Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash \n Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma \n WORK EXPERIENCE \n MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 \n ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that \n utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency', metadata={'source': './data/resume.pdf', 'page': 0})]
+Answering question:  what is AL?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Initial answer:   AL refers to "Adaptive Learning," an intelligent tutoring software. It is mentioned in the context of various excerpts where the individual has worked on optimizing its learning process and implementing features such as agent serialization, a text-to-math expression parser, and interactive graph visualization.
+Iteration:  0
+Response   ['How does Adaptive Learning optimize the learning process?', 'What features has the individual implemented for improving Adaptive Learning?']
+question in generated How does Adaptive Learning optimize the learning process?
+Adding question:  How does Adaptive Learning optimize the learning process?
+question in generated What features has the individual implemented for improving Adaptive Learning?
+Adding question:  What features has the individual implemented for improving Adaptive Learning?
+Create questions response:  ['How does Adaptive Learning optimize the learning process?', 'What features has the individual implemented for improving Adaptive Learning?']
+Preliminary best question:   1. 'How does Adaptive Learning optimize the learning process?'
+Chosen question:  'How does Adaptive Learning optimize the learning process?
+Answering question:  How does Adaptive Learning optimize the learning process?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   Adaptive Learning optimizes the learning process by utilizing personalized learning techniques that adjust the content and pace of a course based on each individual student's progress, preferences, and needs. This approach allows for more efficient learning by focusing on areas where students struggle or need additional support. By leveraging data analytics and machine learning algorithms, adaptive learning systems can analyze student performance, identify knowledge gaps, and recommend targeted content to ensure the learning experience is tailored to each individual's unique requirements.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs. AL improves efficiency by focusing on areas where students struggle or need additional support. By utilizing data analytics and machine learning algorithms, adaptive learning systems can analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+
+
+
+Iteration:  1
+Response   ['What are the key components of an adaptive learning system?', 'How do machine learning algorithms in AL influence student performance and knowledge gaps?' ]
+question in generated What are the key components of an adaptive learning system?
+Adding question:  What are the key components of an adaptive learning system?
+question in generated How do machine learning algorithms in AL influence student performance and knowledge gaps?
+Adding question:  How do machine learning algorithms in AL influence student performance and knowledge gaps?
+Create questions response:  ['What are the key components of an adaptive learning system?', 'How do machine learning algorithms in AL influence student performance and knowledge gaps?']
+Preliminary best question:   2. 'What features has the individual implemented for improving Adaptive Learning?
+Chosen question:  'What features has the individual implemented for improving Adaptive Learning?
+Answering question:  What features has the individual implemented for improving Adaptive Learning?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   The individual has implemented features for improving Adaptive Learning through the following methods:
+1. Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software.
+2. Optimized AL's learning by implementing a text-to-math expression parser using Spacy and Python.
+3. Implemented interactive graph visualization of AL's real-time brain using React and D3.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs. AL improves efficiency by focusing on areas where students struggle or need additional support. By utilizing data analytics and machine learning algorithms, adaptive learning systems can analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+Recently, the individual has implemented features for improving Adaptive Learning through the following methods:
+1. Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software.
+2. Optimized AL's learning by implementing a text-to-math expression parser using Spacy and Python.
+3. Implemented interactive graph visualization of AL's real-time brain using React and D3. These improvements enhance the user experience by providing more personalized content, faster processing times, and better analysis of student performance in real-time.
+
+
+
+
+Iteration:  2
+Response   ['How does text-to-math expression parser optimization improve AL?', 'In what ways does real-time brain visualization enhance user experience through personalized content?']
+question in generated How does text-to-math expression parser optimization improve AL?
+Adding question:  How does text-to-math expression parser optimization improve AL?
+question in generated In what ways does real-time brain visualization enhance user experience through personalized content?
+Adding question:  In what ways does real-time brain visualization enhance user experience through personalized content?
+Create questions response:  ['How does text-to-math expression parser optimization improve AL?', 'In what ways does real-time brain visualization enhance user experience through personalized content?']
+Preliminary best question:   3. 'What are the key components of an adaptive learning system?'
+Chosen question:  'What are the key components of an adaptive learning system?
+Answering question:  What are the key components of an adaptive learning system?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   The key components of an adaptive learning system can be identified from the excerpts provided:
+
+1. Coding and testing agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software - This component helps improve the efficiency and speed at which the system can learn from new data and adjust its recommendations accordingly.
+
+2. Optimizing AL's learning by implementing a text-to-math expression parser using Spacy and Python - This component enables the system to better understand and process natural language input, making it more effective at understanding user needs and providing tailored content.
+
+3. Implementing interactive graph visualization of AL's real-time brain using React and D3 - This component provides a visual representation of how the system is processing and organizing information, allowing users to understand its thought process and identify areas for improvement or adjustment.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs, improving efficiency by focusing on areas where students struggle or need additional support. AL achieves this through data analytics and machine learning algorithms that analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+Recently, the individual has implemented features for improving Adaptive Learning through three key components:
+1. Coding and testing agent serialization in Python to cut retraining time to zero in AL - This enhances the speed at which the system can learn from new data and adjust its recommendations accordingly, making it more efficient and effective.
+2. Optimizing AL's learning by implementing a text-to-math expression parser using Spacy and Python - This improves the system's ability to understand and process natural language input, allowing it to better understand user needs and provide tailored content.
+3. Implementing interactive graph visualization of AL's real-time brain using React and D3 - This provides users with a visual representation of the system's thought process and information organization, offering insights into areas for improvement or adjustment, further personalizing the learning experience.
+
+
+
+
+Iteration:  3
+Response   ['What are the main challenges faced by Adaptive Learning in education today?', 'How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?']
+question in generated What are the main challenges faced by Adaptive Learning in education today?
+Adding question:  What are the main challenges faced by Adaptive Learning in education today?
+question in generated How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?
+Adding question:  How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?
+Create questions response:  ['What are the main challenges faced by Adaptive Learning in education today?', 'How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?']
+Preliminary best question:   4. 'How do machine learning algorithms in AL influence student performance and knowledge gaps?'
+Chosen question:  'How do machine learning algorithms in AL influence student performance and knowledge gaps?
+Answering question:  How do machine learning algorithms in AL influence student performance and knowledge gaps?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency 
+ ●  Built a microservice deployed on Kubernetes that generates build failure metrics on false positives 
+ ●  Managed project lifecycles by composing technical design documents, outlining REST APIs, and defining project milestones 
+ Computer Vision Group Undergraduate Research Assistant  Sept 2022 – Present 
+ ●  Developing a Dynamic Neural Radiance Field (DNeRF) Swift application under Professor Derek Hoiem and Jae 
+ Lee that uses LiDAR data and images to reconstruct interactive 4D videos from a limited number of static frames 
+ ●  Conducted and reproduced literature review on NeRF and Dynamic View Synthesis techniques including DNeRF 
+ CS124 Honors Course Lead, Project Manager  Jan 2021 – June 2023 
+ ●  Led operations for an intro class of 100+ and coordinated with 50+ staff members to supervise 30+ project groups 
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   Machine learning algorithms in Adaptive Learning (AL) can influence student performance by personalizing the learning process, providing adaptive difficulty levels, and minimizing knowledge gaps. This is achieved through the following mechanisms:
+
+1. Personalized Learning: AL algorithms analyze a student's strengths and weaknesses, adjusting the content accordingly to provide appropriate challenges at each stage of their learning journey. This helps students progress at their own pace, improving overall performance and retention of knowledge.
+
+2. Adaptive Difficulty: AL systems continuously monitor a student's performance and adjust the difficulty levels based on their current understanding. This ensures that they are neither overwhelmed nor bored by the material, fostering an optimal learning experience.
+
+3. Minimizing Knowledge Gaps: By using machine learning algorithms, AL can identify areas where students have knowledge gaps and provide targeted interventions to fill those gaps. This approach helps in reducing knowledge gaps and enhancing overall understanding of the subject matter.
+
+In summary, machine learning algorithms in Adaptive Learning can significantly influence student performance by tailoring the learning experience to individual needs, providing adaptive difficulty levels, and minimizing knowledge gaps.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs, improving efficiency by focusing on areas where students struggle or need additional support. AL achieves this through data analytics and machine learning algorithms that analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+Recently, the individual has implemented features for improving Adaptive Learning through three key components:
+1. Coding and testing agent serialization in Python to cut retraining time to zero in AL - This enhances the speed at which the system can learn from new data and adjust its recommendations accordingly, making it more efficient and effective.
+2. Optimizing AL's learning by implementing a text-to-math expression parser using Spacy and Python - This improves the system's ability to understand and process natural language input, allowing it to better understand user needs and provide tailored content.
+3. Implementing interactive graph visualization of AL's real-time brain using React and D3 - This provides users with a visual representation of the system's thought process and information organization, offering insights into areas for improvement or adjustment, further personalizing the learning experience.
+
+Machine learning algorithms in Adaptive Learning can influence student performance by personalizing the learning process, providing adaptive difficulty levels, and minimizing knowledge gaps. This is achieved through the following mechanisms:
+
+1. Personalized Learning: AL algorithms analyze a student's strengths and weaknesses, adjusting the content accordingly to provide appropriate challenges at each stage of their learning journey. This helps students progress at their own pace, improving overall performance and retention of knowledge.
+2. Adaptive Difficulty: AL systems continuously monitor a student's performance and adjust the difficulty levels based on their current understanding. This ensures that they are neither overwhelmed nor bored by the material, fostering an optimal learning experience.
+3. Minimizing Knowledge Gaps: By using machine learning algorithms, AL can identify areas where students have knowledge gaps and provide targeted interventions to fill those gaps. This approach helps in reducing knowledge gaps and enhancing overall understanding of the subject matter.
+
+
+
+
+Iteration:  4
+Response   ['What are the benefits of personalized learning through Adaptive Learning (AL)?', 'What is the impact of adaptive difficulty levels on student performance in AL?']
+question in generated What are the benefits of personalized learning through Adaptive Learning (AL)?
+Adding question:  What are the benefits of personalized learning through Adaptive Learning (AL)?
+question in generated What is the impact of adaptive difficulty levels on student performance in AL?
+Adding question:  What is the impact of adaptive difficulty levels on student performance in AL?
+Create questions response:  ['What are the benefits of personalized learning through Adaptive Learning (AL)?', 'What is the impact of adaptive difficulty levels on student performance in AL?']
+Preliminary best question:   5. 'How does text-to-math expression parser optimization improve AL?'
+Chosen question:  'How does text-to-math expression parser optimization improve AL?
+Answering question:  How does text-to-math expression parser optimization improve AL?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency 
+ ●  Built a microservice deployed on Kubernetes that generates build failure metrics on false positives 
+ ●  Managed project lifecycles by composing technical design documents, outlining REST APIs, and defining project milestones 
+ Computer Vision Group Undergraduate Research Assistant  Sept 2022 – Present 
+ ●  Developing a Dynamic Neural Radiance Field (DNeRF) Swift application under Professor Derek Hoiem and Jae 
+ Lee that uses LiDAR data and images to reconstruct interactive 4D videos from a limited number of static frames 
+ ●  Conducted and reproduced literature review on NeRF and Dynamic View Synthesis techniques including DNeRF 
+ CS124 Honors Course Lead, Project Manager  Jan 2021 – June 2023 
+ ●  Led operations for an intro class of 100+ and coordinated with 50+ staff members to supervise 30+ project groups 
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   Text-to-math expression parser optimization improves artificial language learning by increasing the accuracy and efficiency of parsing text inputs. This enhancement allows AL to better understand and process input data, leading to more accurate predictions and decision-making capabilities. By implementing a text-to-math expression parser using Spacy and Python, the system can recognize and interpret math expressions in text format, enabling it to reason more effectively. As a result, artificial language learning becomes more powerful and adaptive, leading to improved performance overall.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs, improving efficiency by focusing on areas where students struggle or need additional support. AL achieves this through data analytics and machine learning algorithms that analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+Recently, the individual has implemented features for improving Adaptive Learning through three key components:
+1. Coding and testing agent serialization in Python to cut retraining time to zero in AL - This enhances the speed at which the system can learn from new data and adjust its recommendations accordingly, making it more efficient and effective.
+2. Optimizing AL's learning by implementing a text-to-math expression parser using Spacy and Python - This improves the system's ability to understand and process natural language input, allowing it to better understand user needs and provide tailored content.
+3. Implementing interactive graph visualization of AL's real-time brain using React and D3 - This provides users with a visual representation of the system's thought process and information organization, offering insights into areas for improvement or adjustment, further personalizing the learning experience.
+
+Machine learning algorithms in Adaptive Learning can influence student performance by personalizing the learning process, providing adaptive difficulty levels, and minimizing knowledge gaps. This is achieved through the following mechanisms:
+
+1. Personalized Learning: AL algorithms analyze a student's strengths and weaknesses, adjusting the content accordingly to provide appropriate challenges at each stage of their learning journey. This helps students progress at their own pace, improving overall performance and retention of knowledge.
+2. Adaptive Difficulty: AL systems continuously monitor a student's performance and adjust the difficulty levels based on their current understanding. This ensures that they are neither overwhelmed nor bored by the material, fostering an optimal learning experience.
+3. Minimizing Knowledge Gaps: By using machine learning algorithms, AL can identify areas where students have knowledge gaps and provide targeted interventions to fill those gaps. This approach helps in reducing knowledge gaps and enhancing overall understanding of the subject matter.
+
+The optimization of text-to-math expression parser in Adaptive Learning through Spacy and Python enhances the system's ability to understand and process user inputs more accurately and efficiently, leading to improved performance in recognizing and interpreting math expressions found in text format. This allows the AI to reason more effectively, making it more powerful and adaptive overall.
+
+
+
+
+Iteration:  5
+Response   ['How do real-time brain visualization and React/D3 contribute to user experience in Adaptive Learning?', 'In what ways does AI optimization improve the learning process in Adaptive Learning?']
+question in generated How do real-time brain visualization and React/D3 contribute to user experience in Adaptive Learning?
+Adding question:  How do real-time brain visualization and React/D3 contribute to user experience in Adaptive Learning?
+question in generated In what ways does AI optimization improve the learning process in Adaptive Learning?
+Adding question:  In what ways does AI optimization improve the learning process in Adaptive Learning?
+Create questions response:  ['How do real-time brain visualization and React/D3 contribute to user experience in Adaptive Learning?', 'In what ways does AI optimization improve the learning process in Adaptive Learning?']
+Preliminary best question:   7. 'What are the main challenges faced by Adaptive Learning in education today?'
+Chosen question:  'What are the main challenges faced by Adaptive Learning in education today?
+Answering question:  What are the main challenges faced by Adaptive Learning in education today?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   Based on the provided excerpts, the main challenges faced by Adaptive Learning in education today are:
+
+1. Optimizing learning and reducing retraining time to zero using intelligent tutoring software like AL, which involves implementing efficient parsing techniques and dynamic data replacement with React and Redux.
+2. Enhancing CS education accessibility by planning outreach initiatives for local elementary schools, empowering undergraduate women in computer science, and improving curriculum offerings.
+3. Designing and delivering online lectures on various programming languages, frameworks, and tools to help students develop readable and modular code and support their learning process.
+4. Developing interactive graph visualization of AL's real-time brain using React and D3 for effective monitoring and understanding of the learning process.
+5. Implementing an ML song recommendation and enjoyability prediction engine in social media platforms, utilizing collaborative filtering techniques.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs, improving efficiency by focusing on areas where students struggle or need additional support. AL achieves this through data analytics and machine learning algorithms that analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+Recently, the individual has implemented features for improving Adaptive Learning through three key components:
+1. Coding and testing agent serialization in Python to cut retraining time to zero in AL - This enhances the speed at which the system can learn from new data and adjust its recommendations accordingly, making it more efficient and effective.
+2. Optimizing AL's learning by implementing a text-to-math expression parser using Spacy and Python - This improves the system's ability to understand and process natural language input, allowing it to better understand user needs and provide tailored content.
+3. Implementing interactive graph visualization of AL's real-time brain using React and D3 - This provides users with a visual representation of the system's thought process and information organization, offering insights into areas for improvement or adjustment, further personalizing the learning experience.
+
+Machine learning algorithms in Adaptive Learning can influence student performance by personalizing the learning process, providing adaptive difficulty levels, and minimizing knowledge gaps. This is achieved through the following mechanisms:
+
+1. Personalized Learning: AL algorithms analyze a student's strengths and weaknesses, adjusting the content accordingly to provide appropriate challenges at each stage of their learning journey. This helps students progress at their own pace, improving overall performance and retention of knowledge.
+2. Adaptive Difficulty: AL systems continuously monitor a student's performance and adjust the difficulty levels based on their current understanding. This ensures that they are neither overwhelmed nor bored by the material, fostering an optimal learning experience.
+3. Minimizing Knowledge Gaps: By using machine learning algorithms, AL can identify areas where students have knowledge gaps and provide targeted interventions to fill those gaps. This approach helps in reducing knowledge gaps and enhancing overall understanding of the subject matter.
+
+To optimize and improve Adaptive Learning further, there are several challenges that need to be addressed:
+
+1. Optimizing learning and reducing retraining time to zero using intelligent tutoring software like AL, which involves implementing efficient parsing techniques and dynamic data replacement with React and Redux.
+2. Enhancing CS education accessibility by planning outreach initiatives for local elementary schools, empowering undergraduate women in computer science, and improving curriculum offerings.
+3. Designing and delivering online lectures on various programming languages, frameworks, and tools to help students develop readable and modular code and support their learning process.
+4. Developing interactive graph visualization of AL's real-time brain using React and D3 for effective monitoring and understanding of the learning process.
+5. Implementing an ML song recommendation and enjoyability prediction engine in social media platforms, utilizing collaborative filtering techniques.
+
+
+
+
+Iteration:  6
+Response   ['How do adaptive difficulty levels and personalized learning mechanisms influence student performance in AL?', 'What are the key challenges faced by Adaptive Learning in education today?']
+question in generated How do adaptive difficulty levels and personalized learning mechanisms influence student performance in AL?
+Adding question:  How do adaptive difficulty levels and personalized learning mechanisms influence student performance in AL?
+question in generated What are the key challenges faced by Adaptive Learning in education today?
+Adding question:  What are the key challenges faced by Adaptive Learning in education today?
+Create questions response:  ['How do adaptive difficulty levels and personalized learning mechanisms influence student performance in AL?', 'What are the key challenges faced by Adaptive Learning in education today?']
+Preliminary best question:   14. What are the key challenges faced by Adaptive Learning in education today?
+Chosen question:  What are the key challenges faced by Adaptive Learning in education today?
+Answering question:  What are the key challenges faced by Adaptive Learning in education today?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   Adaptive Learning faces several challenges in education today, such as:
+
+1. Personalization and customized learning experiences: Ensuring that the learning content and pace are tailored to individual students' needs and abilities.
+
+2. Data-driven approach: Collecting and analyzing large amounts of student data for effective adaptive learning, which requires efficient algorithms and systems for processing and interpreting this information.
+
+3. Integration with traditional education methods: Balancing the benefits of Adaptive Learning with existing teaching methodologies to provide a more comprehensive educational experience.
+
+4. Accessibility and inclusivity: Ensuring that Adaptive Learning platforms are accessible and usable by all students, including those with disabilities or from diverse backgrounds.
+
+5. Collaboration and communication: Promoting collaboration between educators, learners, and technology developers to ensure the efficient implementation of adaptive learning strategies.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that optimizes the learning process by employing personalized learning techniques. It adjusts the course content and pace according to each student's progress, preferences, and needs, improving efficiency by focusing on areas where students struggle or need additional support. AL achieves this through data analytics and machine learning algorithms that analyze student performance, identify knowledge gaps, and recommend targeted content tailored to individual requirements, ensuring a more effective and customized learning experience.
+
+Recently, the individual has implemented features for improving Adaptive Learning through three key components:
+1. Coding and testing agent serialization in Python to cut retraining time to zero in AL - This enhances the speed at which the system can learn from new data and adjust its recommendations accordingly, making it more efficient and effective.
+2. Optimizing AL's learning by implementing a text-to-math expression parser using Spacy and Python - This improves the system's ability to understand and process natural language input, allowing it to better understand user needs and provide tailored content.
+3. Implementing interactive graph visualization of AL's real-time brain using React and D3 - This provides users with a visual representation of the system's thought process and information organization, offering insights into areas for improvement or adjustment, further personalizing the learning experience.
+
+Machine learning algorithms in Adaptive Learning can influence student performance by personalizing the learning process, providing adaptive difficulty levels, and minimizing knowledge gaps. This is achieved through the following mechanisms:
+
+1. Personalized Learning: AL algorithms analyze a student's strengths and weaknesses, adjusting the content accordingly to provide appropriate challenges at each stage of their learning journey. This helps students progress at their own pace, improving overall performance and retention of knowledge.
+2. Adaptive Difficulty: AL systems continuously monitor a student's performance and adjust the difficulty levels based on their current understanding. This ensures that they are neither overwhelmed nor bored by the material, fostering an optimal learning experience.
+3. Minimizing Knowledge Gaps: By using machine learning algorithms, AL can identify areas where students have knowledge gaps and provide targeted interventions to fill those gaps. This approach helps in reducing knowledge gaps and enhancing overall understanding of the subject matter.
+
+To optimize and improve Adaptive Learning further, there are several challenges that need to be addressed:
+
+1. Optimizing learning and reducing retraining time to zero using intelligent tutoring software like AL, which involves implementing efficient parsing techniques and dynamic data replacement with React and Redux.
+2. Enhancing CS education accessibility by planning outreach initiatives for local elementary schools, empowering undergraduate women in computer science, and improving curriculum offerings.
+3. Designing and delivering online lectures on various programming languages, frameworks, and tools to help students develop readable and modular code and support their learning process.
+4. Developing interactive graph visualization of AL's real-time brain using React and D3 for effective monitoring and understanding of the learning process.
+5. Implementing an ML song recommendation and enjoyability prediction engine in social media platforms, utilizing collaborative filtering techniques.
+
+
+
+
+Iteration:  7
+Response   ['Are there any limitations or drawbacks to using AI optimization in Adaptive Learning?', 'What is the role of natural language understanding in optimizing the learning process through AL?']
+question in generated Are there any limitations or drawbacks to using AI optimization in Adaptive Learning?
+Adding question:  Are there any limitations or drawbacks to using AI optimization in Adaptive Learning?
+question in generated What is the role of natural language understanding in optimizing the learning process through AL?
+Adding question:  What is the role of natural language understanding in optimizing the learning process through AL?
+Create questions response:  ['Are there any limitations or drawbacks to using AI optimization in Adaptive Learning?', 'What is the role of natural language understanding in optimizing the learning process through AL?']
+Preliminary best question:   8. 'How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?'
+Chosen question:  'How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?
+Answering question:  How do data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   In Adaptive Learning, data analytics and machine learning algorithms contribute to the improvement of individual student performance by personalizing learning experiences and providing tailored feedback based on each student's unique needs and progress. This is achieved through the following processes:
+
+1. Data Collection and Analysis: Data about student behavior, performance, and preferences are collected and analyzed. This data can include quiz scores, time spent on certain topics, difficulty levels of questions, and more.
+
+2. Machine Learning Models: Based on this data, machine learning algorithms are trained to develop models that can accurately predict a student's performance in various subjects or topics. These models can help identify patterns and trends, allowing for more effective adaptations of the learning material.
+
+3. Personalized Recommendations: With these models in place, the system can provide personalized recommendations to each student based on their strengths, weaknesses, interests, and preferred learning pace. This helps students focus on areas where they need the most improvement and provides them with resources that cater to their individual needs.
+
+4. Adaptive Learning Paths: The algorithms continuously adjust the learning paths based on the student's progress and performance. This ensures that each student receives the right amount of challenge and support, ensuring that the material is neither too easy nor too difficult for them.
+
+5. Real-Time Feedback: Machine learning algorithms can help provide real-time feedback to students as they work through problems or exercises. This can include suggestions on how to approach a problem, alternative methods, and resources that could be helpful in understanding the topic better.
+
+In summary, data analytics and machine learning algorithms in Adaptive Learning contribute to the improvement of individual student performance by providing personalized learning experiences, adaptive learning paths, real-time feedback, and effective recommendations based on each student's unique needs and progress.
+New revised answer:   Adaptive Learning (AL) is an intelligent tutoring software that employs personalized learning techniques to enhance the learning process for individual students. By utilizing data analytics and machine learning algorithms, AL analyzes a student's strengths, weaknesses, preferences, and needs, adjusting the course content and pace accordingly to improve efficiency.
+
+Recently, several features have been implemented within Adaptive Learning to further refine its capabilities:
+1. Serialization in Python reduces retraining time, making the system more efficient and effective at learning from new data.
+2. A text-to-math expression parser in Python enhances the understanding of natural language input, allowing for tailored content based on individual requirements.
+3. Interactive graph visualization using React and D3 provides a real-time representation of the AL's thought process, offering insights into areas where adjustments can be made to personalize the learning experience.
+
+Adaptive Learning algorithms in machine learning can influence student performance by focusing on these key components:
+1. Personalized Learning: By analyzing each student's unique strengths and weaknesses, AL tailors its course content for optimal progression at a suitable pace.
+2. Adaptive Difficulty: Continuous monitoring of a student's performance ensures that the material remains neither too easy nor too challenging, providing an optimal learning experience.
+3. Minimizing Knowledge Gaps: Machine learning algorithms identify knowledge gaps and offer targeted interventions to fill these gaps, leading to enhanced understanding of the subject matter.
+
+To further optimize Adaptive Learning, there are a few challenges that need to be addressed:
+1. Implementing intelligent tutoring software to reduce retraining time and improve dynamic data replacement with React and Redux.
+2. Enhancing accessibility in CS education through outreach initiatives and curriculum improvements.
+3. Developing online lectures on programming languages, frameworks, and tools to promote readable and modular code and support learners.
+4. Implementing an ML song recommendation and enjoyability prediction engine in social media platforms utilizing collaborative filtering techniques.
+5. Designing interactive graph visualization of AL's real-time brain using React and D3 for effective monitoring and understanding of the learning process.
+
+
+
+
+Iteration:  8
+Response   ['How does AI optimization improve the learning process in Adaptive Learning?', 'What are the key components of an adaptive learning system?']
+question in generated How does AI optimization improve the learning process in Adaptive Learning?
+Adding question:  How does AI optimization improve the learning process in Adaptive Learning?
+question in generated What are the key components of an adaptive learning system?
+Adding question:  What are the key components of an adaptive learning system?
+Create questions response:  ['How does AI optimization improve the learning process in Adaptive Learning?', 'What are the key components of an adaptive learning system?']
+Preliminary best question:   9. 'What are the benefits of personalized learning through Adaptive Learning (AL)?'
+Chosen question:  'What are the benefits of personalized learning through Adaptive Learning (AL)?
+Answering question:  What are the benefits of personalized learning through Adaptive Learning (AL)?
+Context:  Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Managed projects using agile methods, including a SwiftUI travel itinerary app and a business success predictor 
+ ●  Designed and delivered online lectures on topics including Git, Bash, frontend, and backend 
+ Carnegie Mellon HCI Institute Research Intern  June  2021 – June 2022 
+ ●  Coded and tested agent serialization in Python to cut retraining time to zero in AL, an intelligent tutoring software 
+ ●  Optimized AL’s learning by implementing a text-to-math expression parser using Spacy and Python 
+ ●  Implemented interactive graph visualization of AL’s real-time brain using React and D3 
+ PROJECT HIGHLIGHTS 
+ ARPaint: Augmented Reality iOS App 
+ ●  Led the development of an Augmented Reality app using Swift that allows users to draw images in a 3D environment 
+ by tracing their fingers midair using Apple’s ARKit and SceneKit 
+ ●  Tracked users’ fingers with Apple’s Vision framework and determined drawing location using plane detection 
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility 
+ Disruption Lab iMedia Innovation Engineer  Jan 2022 – June 2022 
+ ●  Built backend API functions in C# to efficiently parse search results and fetch filter options in a video-uploading service 
+ ●  Replaced hardcoded instances in the frontend with dynamic data using Redux and React 
+ CS126 (Software Design Studio)/ CS225 (Data Structures) Course Assistant  Jan 2021 – Sept 2021 
+ ●  Ran weekly code reviews to go over student code in a group setting to help them write readable and modular code 
+ ●  Hosted office and lab hours to answer questions about course projects and assignments in C++ and Java
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Muxi: Spotify-Integrated Social Media App with Recommendation Engine 
+ ●  Utilized the MERN (MongoDB, Express, React, Node) stack and Flask to develop a social media platform that enables 
+ users to follow other Spotify users, message them, and rate their favorite songs 
+ ●  Incorporated an ML song recommendation and enjoyability prediction engine with collaborative filtering 
+ MapleJuice: MapReduce on a Distributed File System 
+ ●  Designed and implemented a fault-tolerant distributed file system using Go and Gossip-style heartbeating that handles 
+ replication and simultaneous reads and writes. 
+ ●  Built a MapReduce-inspired parallel cloud computing framework on the file system using hash and range partitioning. 
+ EXTRACURRICULAR ACTIVITIES 
+ CS Student Ambassador/Research Scholar (CS STARS)  Sept 2021 – Dec 2023 
+ ●  Worked with the CS department as a departmental leader to recruit and empower undergraduate women to CS 
+ ●  Planned outreach initiatives for local elementary schools to enhance CS education accessibility
+- Source: {'source': './data/resume.pdf', 'page': 0}
+----
+Excerpt:
+ Rachael W ei 
+ 617-543-9406 (m) |  r  achaelwei@gmail.com  |  https://  www.linkedin.com/in/rachaelwei/  |  https://rachwei.github.io/ 
+ EDUCATION 
+ University of Illinois at Urbana-Champaign  (  UIUC  )  Dec 2023 
+ Bachelor of Science in Computer Science  GPA: 3.91/4.0 
+ Relevant Coursework: 
+ Intro to Algorithms & Models of Computation  Distributed Systems  Machine Learning  Applied Parallel Programming 
+ Programming Languages and Compilers  Database Systems  Applied Machine Learning  Computational Photography 
+ TECHNICAL STRENGTHS 
+ Languages:  C++, C, C#, Go, Python, Java, Swift, SwiftUI,  Typescript, Bash 
+ Libraries/Frameworks:  Git, Pytorch, React, Flask,  React Native, Node.js, MongoDB, SQL, Kubernetes, Figma 
+ WORK EXPERIENCE 
+ MongoDB Software Engineering Intern  June 2022 – Aug 2022, June 2023 – Aug 2023 
+ ●  Developed and pushed a full-stack failure-resolution suggestion system into production using Python and Typescript that 
+ utilizes multiple cronjobs to cluster build failures, improving error analysis efficiency
+- Source: {'source': './data/resume.pdf', 'page': 0}
+Intermediate answer:   The benefits of personalized learning through Adaptive Learning (AL) include:
+
+1. Tailored Learning Experience: AL adjusts the learning material and pace based on a learner's performance, providing them with an individualized educational experience that caters to their strengths and weaknesses.
+
+2. Improved Retention Rates: As learners are presented with material relevant to their skill level and interests, they are more likely to retain the information, leading to better understanding and recall.
+
+3. Enhanced Motivation: Personalized learning promotes self-directed learning, allowing students to set their goals, monitor progress, and celebrate achievements, increasing motivation and engagement in the learning process.
+
+4. Increased Efficiency: By identifying areas of difficulty and focusing on those aspects, AL reduces time spent on unnecessary or repetitive content, making the learning process more efficient.
+
+5. Greater Flexibility: Adaptive Learning provides learners with the freedom to access course material at their own pace, allowing them to progress through the course at a comfortable speed without feeling rushed or left behind.
+
+6. Continuous Feedback: AL continuously monitors and evaluates the learner's performance, providing timely feedback that helps them understand their strengths and weaknesses, leading to improved performance and understanding of the subject matter.
